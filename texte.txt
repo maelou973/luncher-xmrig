@@ -1,0 +1,3 @@
+coeurs = 4
+nom = TEMPORARY_NAME
+clef publique = 443Gd1g4MnocrMGV1T6Qy1bT9tYVZjfQvEiVRuoGKLGD8eCB8KEesYcfLRHr7Dw9LJ6emh1yqRRXZ2wvixRkWXvwCQbimmZ
